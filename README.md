@@ -6,7 +6,7 @@ The image basically consists in a hen's feather crossed with a leaf from a _[Cei
 The hen represents the unity and protection within the family, but mainly from a mother to her
 children. The tree represents our roots, for us never to forget where we are from and who we are.
 
-![](./src/crest.svg)
+![Crest](src/crest.svg "Crest")
 
 [1]: https://en.wikipedia.org/wiki/Ceiba_speciosa
 
