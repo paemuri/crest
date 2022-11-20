@@ -8,5 +8,9 @@ children. The tree represents our roots, for us never to forget where we are fro
 
 ![Crest](src/crest.svg "Crest")
 
+## TODO
+
+- [ ] Define a license
+
 [1]: https://en.wikipedia.org/wiki/Ceiba_speciosa
 
