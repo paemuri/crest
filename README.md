@@ -10,7 +10,7 @@ children. The tree represents our roots, for us never to forget where we are fro
 
 ## License
 
-This project is released under the CC BY-NC-SA 4.0 license. See the [LICENSE file][3].
+This project's images are released under the CC BY-NC-SA 4.0 license. See the [LICENSE file][3].
 
 ### Contribution
 
