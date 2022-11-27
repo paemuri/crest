@@ -18,5 +18,5 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 work by you shall be released under the same license, without any additional terms or conditions.
 
 [1]: https://en.wikipedia.org/wiki/Ceiba_speciosa
-[2]: ./src/crest.svg
+[2]: ./out/crest.png
 [3]: ./LICENSE
