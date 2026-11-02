@@ -1,5 +1,7 @@
 # Crest
 
+[![License][badge-1-img]][badge-1-link]
+
 This small project is a attempt of creating a vectorized crest for my family (me and my wife).
 
 The image basically consists in three things:
@@ -11,16 +13,31 @@ The image basically consists in three things:
 
 ![Crest][3]
 
-## License
+## Source code
 
-This project's images are released under the CC BY-NC-SA 4.0 license. See the [LICENSE file][4].
+The main repository is on [SourceHut][source-srht]. Mirrors exist on
+[Codeberg][source-codeberg] and [GitHub][source-github] for convenience, but
+they might occasionally be outdated.
 
-### Contribution
+## License and contribution
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the
-work by you shall be released under the same license, without any additional terms or conditions.
+All original content and artwork are licensed under the [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International][license-content].
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in the work by you shall be licensed under the same license as
+the material to which it is contributed, without any additional terms or
+conditions.
 
 [1]: https://en.wikipedia.org/wiki/Ceiba_speciosa
 [2]: https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus
 [3]: ./out/crest.png
-[4]: ./LICENSE
+
+[badge-1-img]: https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-green?style=flat-square
+[badge-1-link]: ./LICENSE
+
+[source-srht]: https://git.sr.ht/~paemuri/crest
+[source-codeberg]: https://codeberg.org/paemuri/crest
+[source-github]: https://github.com/paemuri/crest
+
+[license-content]: ./LICENSES/CC-BY-NC-SA-4.0.txt
